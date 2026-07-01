@@ -15,7 +15,7 @@ My interests include Generative AI, Large Language Models (LLMs), Retrieval-Augm
 - 🧠 Building AI applications using LLMs and RAG
 - 💻 Interested in Full Stack + AI Engineering
 - 🌱 Currently learning Advanced RAG, AI Agents, FastAPI, and System Design
-- 📫 Reach me at: **alok46134@gmail.com**
+- 📫 Reach me at: **alok12054@gmail.com**
 
 ---
 
